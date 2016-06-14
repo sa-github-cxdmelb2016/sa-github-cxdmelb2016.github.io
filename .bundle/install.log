@@ -1,0 +1,348 @@
+# Logfile created on 2016-06-14 14:17:32 +1000 by logger.rb/41954
+I, [2016-06-14T14:17:32.780471 #41665]  INFO -- : 0:  i18n (0.7.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/i18n-0.7.0.gemspec
+I, [2016-06-14T14:17:32.780956 #41665]  INFO -- : 0:  json (1.8.3) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/json-1.8.3.gemspec
+I, [2016-06-14T14:17:36.666433 #41665]  INFO -- : 0:  minitest (5.9.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/minitest-5.9.0.gemspec
+I, [2016-06-14T14:17:36.666771 #41665]  INFO -- : 0:  thread_safe (0.3.5) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/thread_safe-0.3.5.gemspec
+I, [2016-06-14T14:17:36.667009 #41665]  INFO -- : 0:  tzinfo (1.2.2) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/tzinfo-1.2.2.gemspec
+I, [2016-06-14T14:17:38.232985 #41665]  INFO -- : 0:  activesupport (4.2.6) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activesupport-4.2.6.gemspec
+I, [2016-06-14T14:17:40.009779 #41665]  INFO -- : 0:  addressable (2.4.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/addressable-2.4.0.gemspec
+I, [2016-06-14T14:17:40.010135 #41665]  INFO -- : 0:  coffee-script-source (1.10.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/coffee-script-source-1.10.0.gemspec
+I, [2016-06-14T14:17:41.274775 #41665]  INFO -- : 0:  execjs (2.7.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/execjs-2.7.0.gemspec
+I, [2016-06-14T14:17:41.275113 #41665]  INFO -- : 0:  coffee-script (2.4.1) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/coffee-script-2.4.1.gemspec
+I, [2016-06-14T14:17:41.275343 #41665]  INFO -- : 0:  colorator (0.1) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/specifications/colorator-0.1.gemspec
+I, [2016-06-14T14:17:41.275561 #41665]  INFO -- : 0:  ffi (1.9.10) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/ffi-1.9.10.gemspec
+I, [2016-06-14T14:17:42.619500 #41665]  INFO -- : 0:  ethon (0.9.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/ethon-0.9.0.gemspec
+I, [2016-06-14T14:17:43.804544 #41665]  INFO -- : 0:  multipart-post (2.0.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/multipart-post-2.0.0.gemspec
+I, [2016-06-14T14:17:45.213000 #41665]  INFO -- : 0:  faraday (0.9.2) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/faraday-0.9.2.gemspec
+I, [2016-06-14T14:17:49.665944 #41665]  INFO -- : 0:  gemoji (2.1.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/gemoji-2.1.0.gemspec
+I, [2016-06-14T14:17:53.260908 #41665]  INFO -- : 0:  net-dns (0.8.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/net-dns-0.8.0.gemspec
+I, [2016-06-14T14:17:56.168639 #41665]  INFO -- : 0:  sawyer (0.7.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sawyer-0.7.0.gemspec
+I, [2016-06-14T14:17:57.907937 #41665]  INFO -- : 0:  octokit (4.3.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/octokit-4.3.0.gemspec
+I, [2016-06-14T14:18:01.799177 #41665]  INFO -- : 0:  public_suffix (1.5.3) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/public_suffix-1.5.3.gemspec
+I, [2016-06-14T14:18:04.831736 #41665]  INFO -- : 0:  typhoeus (0.8.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/typhoeus-0.8.0.gemspec
+I, [2016-06-14T14:18:06.659122 #41665]  INFO -- : 0:  github-pages-health-check (1.1.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/github-pages-health-check-1.1.0.gemspec
+I, [2016-06-14T14:18:08.600724 #41665]  INFO -- : 0:  sass (3.4.22) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sass-3.4.22.gemspec
+I, [2016-06-14T14:18:08.601059 #41665]  INFO -- : 0:  jekyll-sass-converter (1.3.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-sass-converter-1.3.0.gemspec
+I, [2016-06-14T14:18:08.601249 #41665]  INFO -- : 0:  rb-fsevent (0.9.7) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rb-fsevent-0.9.7.gemspec
+I, [2016-06-14T14:18:09.845055 #41665]  INFO -- : 0:  rb-inotify (0.9.7) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rb-inotify-0.9.7.gemspec
+I, [2016-06-14T14:18:11.300579 #41665]  INFO -- : 0:  listen (3.0.6) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/listen-3.0.6.gemspec
+I, [2016-06-14T14:18:14.297130 #41665]  INFO -- : 0:  jekyll-watch (1.4.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-watch-1.4.0.gemspec
+I, [2016-06-14T14:18:16.943705 #41665]  INFO -- : 0:  kramdown (1.10.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/kramdown-1.10.0.gemspec
+I, [2016-06-14T14:18:16.944031 #41665]  INFO -- : 0:  liquid (3.0.6) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/liquid-3.0.6.gemspec
+I, [2016-06-14T14:18:18.046422 #41665]  INFO -- : 0:  mercenary (0.3.6) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/mercenary-0.3.6.gemspec
+I, [2016-06-14T14:18:18.046711 #41665]  INFO -- : 0:  rouge (1.10.1) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rouge-1.10.1.gemspec
+I, [2016-06-14T14:18:18.046921 #41665]  INFO -- : 0:  safe_yaml (1.0.4) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/safe_yaml-1.0.4.gemspec
+I, [2016-06-14T14:18:19.389702 #41665]  INFO -- : 0:  jekyll (3.1.6) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-3.1.6.gemspec
+I, [2016-06-14T14:18:19.390083 #41665]  INFO -- : 0:  jekyll-coffeescript (1.0.1) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-coffeescript-1.0.1.gemspec
+I, [2016-06-14T14:18:20.770495 #41665]  INFO -- : 0:  jekyll-feed (0.5.1) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-feed-0.5.1.gemspec
+I, [2016-06-14T14:18:22.317511 #41665]  INFO -- : 0:  jekyll-gist (1.4.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-gist-1.4.0.gemspec
+I, [2016-06-14T14:18:23.911165 #41665]  INFO -- : 0:  jekyll-github-metadata (2.0.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-github-metadata-2.0.0.gemspec
+I, [2016-06-14T14:18:25.535907 #41665]  INFO -- : 0:  mini_portile2 (2.1.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/mini_portile2-2.1.0.gemspec
+I, [2016-06-14T14:18:26.706790 #41665]  INFO -- : 0:  pkg-config (1.1.7) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/pkg-config-1.1.7.gemspec
+E, [2016-06-14T14:18:56.508033 #41665] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/bin/ruby -r ./siteconf20160614-41665-182pxzj.rb extconf.rb 
+Using pkg-config version 1.1.7
+checking if the C compiler accepts ... yes
+checking if the C compiler accepts -Wno-error=unused-command-line-argument-hard-error-in-future... no
+Building nokogiri using packaged libraries.
+Using mini_portile version 2.1.0
+checking for iconv.h... yes
+checking for gzdopen() in -lz... yes
+checking for iconv... yes
+************************************************************************
+IMPORTANT NOTICE:
+
+Building Nokogiri with a packaged version of libxml2-2.9.4.
+
+Team Nokogiri will keep on doing their best to provide security
+updates in a timely manner, but if this is a concern for you and want
+to use the system library instead; abort this installation process and
+reinstall nokogiri as follows:
+
+    gem install nokogiri -- --use-system-libraries
+        [--with-xml2-config=/path/to/xml2-config]
+        [--with-xslt-config=/path/to/xslt-config]
+
+If you are using Bundler, tell it to use the option:
+
+    bundle config build.nokogiri --use-system-libraries
+    bundle install
+
+Note, however, that nokogiri is not fully compatible with arbitrary
+versions of libxml2 provided by OS/package vendors.
+************************************************************************
+Extracting libxml2-2.9.4.tar.gz into tmp/x86_64-apple-darwin12.5.0/ports/libxml2/2.9.4... OK
+Running 'configure' for libxml2 2.9.4... OK
+Running 'compile' for libxml2 2.9.4... ERROR, review '/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/gems/nokogiri-1.6.8/ext/nokogiri/tmp/x86_64-apple-darwin12.5.0/ports/libxml2/2.9.4/compile.log' to see what happened. Last lines are:
+========================================================================
+    unsigned short* in = (unsigned short*) inb;
+                         ^~~~~~~~~~~~~~~~~~~~~
+encoding.c:815:27: warning: cast from 'unsigned char *' to 'unsigned short *' increases required alignment from 1 to 2 [-Wcast-align]
+    unsigned short* out = (unsigned short*) outb;
+                          ^~~~~~~~~~~~~~~~~~~~~~
+4 warnings generated.
+  CC       error.lo
+  CC       parserInternals.lo
+  CC       parser.lo
+  CC       tree.lo
+  CC       hash.lo
+  CC       list.lo
+  CC       xmlIO.lo
+xmlIO.c:1450:52: error: use of undeclared identifier 'LZMA_OK'
+    ret =  (__libxml2_xzclose((xzFile) context) == LZMA_OK ) ? 0 : -1;
+                                                   ^
+1 error generated.
+make[2]: *** [xmlIO.lo] Error 1
+make[1]: *** [all-recursive] Error 1
+make: *** [all] Error 2
+========================================================================
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/bin/ruby
+	--help
+	--clean
+	--use-system-libraries
+	--enable-static
+	--disable-static
+	--with-zlib-dir
+	--without-zlib-dir
+	--with-zlib-include
+	--without-zlib-include=${zlib-dir}/include
+	--with-zlib-lib
+	--without-zlib-lib=${zlib-dir}/lib
+	--enable-cross-build
+	--disable-cross-build
+/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/gems/mini_portile2-2.1.0/lib/mini_portile2/mini_portile.rb:366:in `block in execute': Failed to complete compile task (RuntimeError)
+	from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/gems/mini_portile2-2.1.0/lib/mini_portile2/mini_portile.rb:337:in `chdir'
+	from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/gems/mini_portile2-2.1.0/lib/mini_portile2/mini_portile.rb:337:in `execute'
+	from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/gems/mini_portile2-2.1.0/lib/mini_portile2/mini_portile.rb:111:in `compile'
+	from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/gems/mini_portile2-2.1.0/lib/mini_portile2/mini_portile.rb:150:in `cook'
+	from extconf.rb:364:in `block (2 levels) in process_recipe'
+	from extconf.rb:257:in `block in chdir_for_build'
+	from extconf.rb:256:in `chdir'
+	from extconf.rb:256:in `chdir_for_build'
+	from extconf.rb:363:in `block in process_recipe'
+	from extconf.rb:262:in `tap'
+	from extconf.rb:262:in `process_recipe'
+	from extconf.rb:555:in `<main>'
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/gems/nokogiri-1.6.8 for inspection.
+Results logged to /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/extensions/x86_64-darwin-12/2.0.0-static/nokogiri-1.6.8/gem_make.out
+
+/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:89:in `run'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:36:in `block in build'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/tempfile.rb:324:in `open'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:19:in `build'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:160:in `chdir'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:195:in `each'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:702:in `build_extensions'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:250:in `install'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/bin/bundle:19:in `load'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/bin/bundle:19:in `<main>'
+I, [2016-06-14T14:20:04.584273 #45858]  INFO -- : 0:  i18n (0.7.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/i18n-0.7.0.gemspec
+I, [2016-06-14T14:20:08.419248 #45858]  INFO -- : 0:  json (1.8.3) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/json-1.8.3.gemspec
+I, [2016-06-14T14:20:10.326839 #45858]  INFO -- : 0:  minitest (5.9.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/minitest-5.9.0.gemspec
+I, [2016-06-14T14:20:12.936110 #45858]  INFO -- : 0:  thread_safe (0.3.5) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/thread_safe-0.3.5.gemspec
+I, [2016-06-14T14:20:14.661886 #45858]  INFO -- : 0:  tzinfo (1.2.2) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/tzinfo-1.2.2.gemspec
+I, [2016-06-14T14:20:18.725160 #45858]  INFO -- : 0:  activesupport (4.2.6) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/activesupport-4.2.6.gemspec
+I, [2016-06-14T14:20:21.985127 #45858]  INFO -- : 0:  addressable (2.4.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/addressable-2.4.0.gemspec
+I, [2016-06-14T14:20:23.411950 #45858]  INFO -- : 0:  coffee-script-source (1.10.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/coffee-script-source-1.10.0.gemspec
+I, [2016-06-14T14:20:24.718686 #45858]  INFO -- : 0:  execjs (2.7.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/execjs-2.7.0.gemspec
+I, [2016-06-14T14:20:25.861760 #45858]  INFO -- : 0:  coffee-script (2.4.1) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/coffee-script-2.4.1.gemspec
+I, [2016-06-14T14:20:25.862082 #45858]  INFO -- : 0:  colorator (0.1) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/colorator-0.1.gemspec
+I, [2016-06-14T14:20:41.371664 #45858]  INFO -- : 0:  ffi (1.9.10) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/ffi-1.9.10.gemspec
+I, [2016-06-14T14:20:43.659459 #45858]  INFO -- : 0:  ethon (0.9.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/ethon-0.9.0.gemspec
+I, [2016-06-14T14:20:45.590681 #45858]  INFO -- : 0:  multipart-post (2.0.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/multipart-post-2.0.0.gemspec
+I, [2016-06-14T14:20:51.475776 #45858]  INFO -- : 0:  faraday (0.9.2) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/faraday-0.9.2.gemspec
+I, [2016-06-14T14:20:54.308606 #45858]  INFO -- : 0:  gemoji (2.1.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/gemoji-2.1.0.gemspec
+I, [2016-06-14T14:20:57.307757 #45858]  INFO -- : 0:  net-dns (0.8.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/net-dns-0.8.0.gemspec
+I, [2016-06-14T14:20:58.697873 #45858]  INFO -- : 0:  sawyer (0.7.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/sawyer-0.7.0.gemspec
+I, [2016-06-14T14:21:01.057875 #45858]  INFO -- : 0:  octokit (4.3.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/octokit-4.3.0.gemspec
+I, [2016-06-14T14:21:02.270741 #45858]  INFO -- : 0:  public_suffix (1.5.3) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/public_suffix-1.5.3.gemspec
+I, [2016-06-14T14:21:04.062148 #45858]  INFO -- : 0:  typhoeus (0.8.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/typhoeus-0.8.0.gemspec
+I, [2016-06-14T14:21:05.536977 #45858]  INFO -- : 0:  github-pages-health-check (1.1.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/github-pages-health-check-1.1.0.gemspec
+I, [2016-06-14T14:21:07.220545 #45858]  INFO -- : 0:  sass (3.4.22) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/sass-3.4.22.gemspec
+I, [2016-06-14T14:21:08.565439 #45858]  INFO -- : 0:  jekyll-sass-converter (1.3.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/jekyll-sass-converter-1.3.0.gemspec
+I, [2016-06-14T14:21:09.714710 #45858]  INFO -- : 0:  rb-fsevent (0.9.7) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rb-fsevent-0.9.7.gemspec
+I, [2016-06-14T14:21:10.950472 #45858]  INFO -- : 0:  rb-inotify (0.9.7) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rb-inotify-0.9.7.gemspec
+I, [2016-06-14T14:21:12.130561 #45858]  INFO -- : 0:  listen (3.0.6) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/listen-3.0.6.gemspec
+I, [2016-06-14T14:21:13.547907 #45858]  INFO -- : 0:  jekyll-watch (1.4.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/jekyll-watch-1.4.0.gemspec
+I, [2016-06-14T14:21:15.304648 #45858]  INFO -- : 0:  kramdown (1.10.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/kramdown-1.10.0.gemspec
+I, [2016-06-14T14:21:16.633373 #45858]  INFO -- : 0:  liquid (3.0.6) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/liquid-3.0.6.gemspec
+I, [2016-06-14T14:21:17.802232 #45858]  INFO -- : 0:  mercenary (0.3.6) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/mercenary-0.3.6.gemspec
+I, [2016-06-14T14:21:21.363947 #45858]  INFO -- : 0:  rouge (1.10.1) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rouge-1.10.1.gemspec
+I, [2016-06-14T14:21:23.118653 #45858]  INFO -- : 0:  safe_yaml (1.0.4) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/safe_yaml-1.0.4.gemspec
+I, [2016-06-14T14:21:25.457387 #45858]  INFO -- : 0:  jekyll (3.1.6) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/jekyll-3.1.6.gemspec
+I, [2016-06-14T14:21:28.348790 #45858]  INFO -- : 0:  jekyll-coffeescript (1.0.1) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/jekyll-coffeescript-1.0.1.gemspec
+I, [2016-06-14T14:21:29.830757 #45858]  INFO -- : 0:  jekyll-feed (0.5.1) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/jekyll-feed-0.5.1.gemspec
+I, [2016-06-14T14:21:31.512014 #45858]  INFO -- : 0:  jekyll-gist (1.4.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/jekyll-gist-1.4.0.gemspec
+I, [2016-06-14T14:21:33.052763 #45858]  INFO -- : 0:  jekyll-github-metadata (2.0.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/jekyll-github-metadata-2.0.0.gemspec
+I, [2016-06-14T14:21:35.265892 #45858]  INFO -- : 0:  mini_portile2 (2.1.0) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/mini_portile2-2.1.0.gemspec
+I, [2016-06-14T14:21:37.508471 #45858]  INFO -- : 0:  pkg-config (1.1.7) from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/pkg-config-1.1.7.gemspec
+E, [2016-06-14T14:21:55.910230 #45858] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/bin/ruby -r ./siteconf20160614-45858-kyl7z3.rb extconf.rb 
+Using pkg-config version 1.1.7
+checking if the C compiler accepts ... yes
+checking if the C compiler accepts -Wno-error=unused-command-line-argument-hard-error-in-future... no
+Building nokogiri using packaged libraries.
+Using mini_portile version 2.1.0
+checking for iconv.h... yes
+checking for gzdopen() in -lz... yes
+checking for iconv... yes
+************************************************************************
+IMPORTANT NOTICE:
+
+Building Nokogiri with a packaged version of libxml2-2.9.4.
+
+Team Nokogiri will keep on doing their best to provide security
+updates in a timely manner, but if this is a concern for you and want
+to use the system library instead; abort this installation process and
+reinstall nokogiri as follows:
+
+    gem install nokogiri -- --use-system-libraries
+        [--with-xml2-config=/path/to/xml2-config]
+        [--with-xslt-config=/path/to/xslt-config]
+
+If you are using Bundler, tell it to use the option:
+
+    bundle config build.nokogiri --use-system-libraries
+    bundle install
+
+Note, however, that nokogiri is not fully compatible with arbitrary
+versions of libxml2 provided by OS/package vendors.
+************************************************************************
+Extracting libxml2-2.9.4.tar.gz into tmp/x86_64-apple-darwin12.5.0/ports/libxml2/2.9.4... OK
+Running 'configure' for libxml2 2.9.4... OK
+Running 'compile' for libxml2 2.9.4... ERROR, review '/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/nokogiri-1.6.8/ext/nokogiri/tmp/x86_64-apple-darwin12.5.0/ports/libxml2/2.9.4/compile.log' to see what happened. Last lines are:
+========================================================================
+    unsigned short* in = (unsigned short*) inb;
+                         ^~~~~~~~~~~~~~~~~~~~~
+encoding.c:815:27: warning: cast from 'unsigned char *' to 'unsigned short *' increases required alignment from 1 to 2 [-Wcast-align]
+    unsigned short* out = (unsigned short*) outb;
+                          ^~~~~~~~~~~~~~~~~~~~~~
+4 warnings generated.
+  CC       error.lo
+  CC       parserInternals.lo
+  CC       parser.lo
+  CC       tree.lo
+  CC       hash.lo
+  CC       list.lo
+  CC       xmlIO.lo
+xmlIO.c:1450:52: error: use of undeclared identifier 'LZMA_OK'
+    ret =  (__libxml2_xzclose((xzFile) context) == LZMA_OK ) ? 0 : -1;
+                                                   ^
+1 error generated.
+make[2]: *** [xmlIO.lo] Error 1
+make[1]: *** [all-recursive] Error 1
+make: *** [all] Error 2
+========================================================================
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/bin/ruby
+	--help
+	--clean
+	--use-system-libraries
+	--enable-static
+	--disable-static
+	--with-zlib-dir
+	--without-zlib-dir
+	--with-zlib-include
+	--without-zlib-include=${zlib-dir}/include
+	--with-zlib-lib
+	--without-zlib-lib=${zlib-dir}/lib
+	--enable-cross-build
+	--disable-cross-build
+/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/mini_portile2-2.1.0/lib/mini_portile2/mini_portile.rb:366:in `block in execute': Failed to complete compile task (RuntimeError)
+	from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/mini_portile2-2.1.0/lib/mini_portile2/mini_portile.rb:337:in `chdir'
+	from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/mini_portile2-2.1.0/lib/mini_portile2/mini_portile.rb:337:in `execute'
+	from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/mini_portile2-2.1.0/lib/mini_portile2/mini_portile.rb:111:in `compile'
+	from /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/mini_portile2-2.1.0/lib/mini_portile2/mini_portile.rb:150:in `cook'
+	from extconf.rb:364:in `block (2 levels) in process_recipe'
+	from extconf.rb:257:in `block in chdir_for_build'
+	from extconf.rb:256:in `chdir'
+	from extconf.rb:256:in `chdir_for_build'
+	from extconf.rb:363:in `block in process_recipe'
+	from extconf.rb:262:in `tap'
+	from extconf.rb:262:in `process_recipe'
+	from extconf.rb:555:in `<main>'
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/nokogiri-1.6.8 for inspection.
+Results logged to /Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/extensions/x86_64-darwin-12/2.0.0-static/nokogiri-1.6.8/gem_make.out
+
+/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:89:in `run'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:36:in `block in build'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/tempfile.rb:324:in `open'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:19:in `build'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:160:in `chdir'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:195:in `each'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:702:in `build_extensions'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:250:in `install'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Users/dlimiter/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/bin/bundle:19:in `load'  \n/Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/bin/bundle:19:in `<main>'
+I, [2016-06-14T14:41:09.311873 #59757]  INFO -- : 0:  i18n (0.7.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/i18n-0.7.0.gemspec
+I, [2016-06-14T14:41:09.312780 #59757]  INFO -- : 0:  json (1.8.3) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/json-1.8.3.gemspec
+I, [2016-06-14T14:41:09.313063 #59757]  INFO -- : 0:  minitest (5.9.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/minitest-5.9.0.gemspec
+I, [2016-06-14T14:41:09.313309 #59757]  INFO -- : 0:  thread_safe (0.3.5) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/thread_safe-0.3.5.gemspec
+I, [2016-06-14T14:41:09.313543 #59757]  INFO -- : 0:  tzinfo (1.2.2) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/tzinfo-1.2.2.gemspec
+I, [2016-06-14T14:41:09.313785 #59757]  INFO -- : 0:  activesupport (4.2.6) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/activesupport-4.2.6.gemspec
+I, [2016-06-14T14:41:09.314011 #59757]  INFO -- : 0:  addressable (2.4.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/addressable-2.4.0.gemspec
+I, [2016-06-14T14:41:09.314246 #59757]  INFO -- : 0:  coffee-script-source (1.10.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/coffee-script-source-1.10.0.gemspec
+I, [2016-06-14T14:41:09.314478 #59757]  INFO -- : 0:  execjs (2.7.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/execjs-2.7.0.gemspec
+I, [2016-06-14T14:41:09.314714 #59757]  INFO -- : 0:  coffee-script (2.4.1) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/coffee-script-2.4.1.gemspec
+I, [2016-06-14T14:41:09.314916 #59757]  INFO -- : 0:  colorator (0.1) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/specifications/colorator-0.1.gemspec
+I, [2016-06-14T14:41:09.315122 #59757]  INFO -- : 0:  ffi (1.9.10) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/ffi-1.9.10.gemspec
+I, [2016-06-14T14:41:09.315647 #59757]  INFO -- : 0:  ethon (0.9.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/ethon-0.9.0.gemspec
+I, [2016-06-14T14:41:09.315853 #59757]  INFO -- : 0:  multipart-post (2.0.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/multipart-post-2.0.0.gemspec
+I, [2016-06-14T14:41:09.316051 #59757]  INFO -- : 0:  faraday (0.9.2) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/faraday-0.9.2.gemspec
+I, [2016-06-14T14:41:09.316245 #59757]  INFO -- : 0:  gemoji (2.1.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/gemoji-2.1.0.gemspec
+I, [2016-06-14T14:41:09.316436 #59757]  INFO -- : 0:  net-dns (0.8.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/net-dns-0.8.0.gemspec
+I, [2016-06-14T14:41:09.316633 #59757]  INFO -- : 0:  sawyer (0.7.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sawyer-0.7.0.gemspec
+I, [2016-06-14T14:41:09.316833 #59757]  INFO -- : 0:  octokit (4.3.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/octokit-4.3.0.gemspec
+I, [2016-06-14T14:41:09.317049 #59757]  INFO -- : 0:  public_suffix (1.5.3) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/public_suffix-1.5.3.gemspec
+I, [2016-06-14T14:41:09.317241 #59757]  INFO -- : 0:  typhoeus (0.8.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/typhoeus-0.8.0.gemspec
+I, [2016-06-14T14:41:09.317433 #59757]  INFO -- : 0:  github-pages-health-check (1.1.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/github-pages-health-check-1.1.0.gemspec
+I, [2016-06-14T14:41:09.317683 #59757]  INFO -- : 0:  sass (3.4.22) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/sass-3.4.22.gemspec
+I, [2016-06-14T14:41:09.317866 #59757]  INFO -- : 0:  jekyll-sass-converter (1.3.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-sass-converter-1.3.0.gemspec
+I, [2016-06-14T14:41:09.318049 #59757]  INFO -- : 0:  rb-fsevent (0.9.7) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rb-fsevent-0.9.7.gemspec
+I, [2016-06-14T14:41:09.318231 #59757]  INFO -- : 0:  rb-inotify (0.9.7) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rb-inotify-0.9.7.gemspec
+I, [2016-06-14T14:41:09.318416 #59757]  INFO -- : 0:  listen (3.0.6) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/listen-3.0.6.gemspec
+I, [2016-06-14T14:41:09.318592 #59757]  INFO -- : 0:  jekyll-watch (1.4.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-watch-1.4.0.gemspec
+I, [2016-06-14T14:41:09.318771 #59757]  INFO -- : 0:  kramdown (1.10.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/kramdown-1.10.0.gemspec
+I, [2016-06-14T14:41:09.318949 #59757]  INFO -- : 0:  liquid (3.0.6) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/liquid-3.0.6.gemspec
+I, [2016-06-14T14:41:09.319123 #59757]  INFO -- : 0:  mercenary (0.3.6) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/mercenary-0.3.6.gemspec
+I, [2016-06-14T14:41:09.319292 #59757]  INFO -- : 0:  rouge (1.10.1) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/rouge-1.10.1.gemspec
+I, [2016-06-14T14:41:09.319465 #59757]  INFO -- : 0:  safe_yaml (1.0.4) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/safe_yaml-1.0.4.gemspec
+I, [2016-06-14T14:41:09.319644 #59757]  INFO -- : 0:  jekyll (3.1.6) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-3.1.6.gemspec
+I, [2016-06-14T14:41:09.319818 #59757]  INFO -- : 0:  jekyll-coffeescript (1.0.1) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-coffeescript-1.0.1.gemspec
+I, [2016-06-14T14:41:09.320135 #59757]  INFO -- : 0:  jekyll-feed (0.5.1) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-feed-0.5.1.gemspec
+I, [2016-06-14T14:41:09.320331 #59757]  INFO -- : 0:  jekyll-gist (1.4.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-gist-1.4.0.gemspec
+I, [2016-06-14T14:41:09.320504 #59757]  INFO -- : 0:  jekyll-github-metadata (2.0.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-github-metadata-2.0.0.gemspec
+I, [2016-06-14T14:41:09.320675 #59757]  INFO -- : 0:  mini_portile2 (2.1.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/mini_portile2-2.1.0.gemspec
+I, [2016-06-14T14:41:09.320842 #59757]  INFO -- : 0:  pkg-config (1.1.7) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/pkg-config-1.1.7.gemspec
+I, [2016-06-14T14:42:31.077073 #59757]  INFO -- : 0:  nokogiri (1.6.8) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/nokogiri-1.6.8.gemspec
+I, [2016-06-14T14:42:38.112328 #59757]  INFO -- : 0:  html-pipeline (2.4.1) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/html-pipeline-2.4.1.gemspec
+I, [2016-06-14T14:42:40.678520 #59757]  INFO -- : 0:  jekyll-mentions (1.1.2) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-mentions-1.1.2.gemspec
+I, [2016-06-14T14:42:40.678841 #59757]  INFO -- : 0:  jekyll-paginate (1.1.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-paginate-1.1.0.gemspec
+I, [2016-06-14T14:42:45.045378 #59757]  INFO -- : 0:  jekyll-redirect-from (0.10.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-redirect-from-0.10.0.gemspec
+I, [2016-06-14T14:42:46.347517 #59757]  INFO -- : 0:  jekyll-seo-tag (2.0.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-seo-tag-2.0.0.gemspec
+I, [2016-06-14T14:42:51.299600 #59757]  INFO -- : 0:  jekyll-sitemap (0.10.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jekyll-sitemap-0.10.0.gemspec
+I, [2016-06-14T14:42:52.965579 #59757]  INFO -- : 0:  jemoji (0.6.2) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/jemoji-0.6.2.gemspec
+I, [2016-06-14T14:42:56.505865 #59757]  INFO -- : 0:  terminal-table (1.6.0) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/terminal-table-1.6.0.gemspec
+I, [2016-06-14T14:43:00.465464 #59757]  INFO -- : 0:  github-pages (82) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/specifications/github-pages-82.gemspec
+I, [2016-06-14T14:43:00.465740 #59757]  INFO -- : 0:  bundler (1.5.1) from /Users/dlimiter/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
