@@ -1,7 +1,5 @@
----
----
-%script{:src => "https://maps.googleapis.com/maps/api/js?key=AIzaSyBJ4c3fPAn8l5ttOZypHJ7PdlMf7RdrjL4&sensor=false"}
-:javascript
+  <script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyBJ4c3fPAn8l5ttOZypHJ7PdlMf7RdrjL4&amp;sensor=false'></script>
+<script>
   // When the window has finished loading create our google map below
   google.maps.event.addDomListener(window, 'load', init);
 
@@ -37,13 +35,18 @@
           title: 'Melbourne Meat Markets'
       });
     }
-
-.map
-  %a.map__label{ href: "https://goo.gl/maps/HBhrGb6VSmN2", target: "_blank"}
-    .map__label-line
+</script>
+<div class='map'>
+  <a class='map__label' href='https://goo.gl/maps/HBhrGb6VSmN2' target='_blank'>
+    <div class='map__label-line'>
       Wednesday 20 July 2016
-    .map-label-line
+    </div>
+    <div class='map-label-line'>
       Melbourne Meat Market
-      .newline
+      <div class='newline'>
         5 Blackwood Street, North Melbourne
-  #map
+      </div>
+    </div>
+  </a>
+  <div id='map'></div>
+</div>

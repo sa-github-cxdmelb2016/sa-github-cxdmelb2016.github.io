@@ -17,5 +17,3 @@ url: "http://culturexdesign.com" # the base hostname & protocol for your site
 markdown: kramdown
 permalink: /:categories/:title
 
-gems:
-- jekyll-haml

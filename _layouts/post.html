@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<article class="post">
+  <div class="hero">
+    <a href="/">
+      <div class="hero__logo">
+        <div class="logo">
+          <div class="logo__one">
+            Culture&#x00d7;
+          </div>
+          <div class="logo__two">
+            Design
+          </div>
+        </div>
+      </div>
+    </a>
+   </div>
+  <div class="wrapper">
+    <div class="post__content">
+      <header class="post__header">
+        <h1 class="post__title">
+          {{ page.title }}
+        </h1>
+        <div class="post__meta">
+          {{ page.date | date: "%a %-d %B, %Y" }}
+        </div>
+      </header>
+      <div class="post__body">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+  {% include tickets.html %}
+  {% include signup.html %}
+</article>

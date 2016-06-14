@@ -1,0 +1,19 @@
+<div class='news section-inline -dark'>
+  <div class='wrapper'>
+    <h2>
+      News
+    </h2>
+    <ul class='post-list'>
+    {% for post in site.posts %}
+      <li class='post-list__item'>
+        <div class='post-list__meta'>
+           {{ post.date | date: "%B %-d" }}
+        </div>
+        <a class='post-list__title' href="{{ post.url | prepend: site.baseurl }}">
+          {{ post.title }}
+        </a>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+</div>
