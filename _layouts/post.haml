@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+
+%article.post
+  .hero
+    %a{href: "/"}
+      .hero__logo
+        .logo
+          .logo__one<
+            Culture&#x00d7;
+          .logo__two
+            Design
+  .wrapper
+    .post__content
+      %header.post__header
+        %h1.post__title
+          {{ page.title }}
+        .post__meta
+          .post__date
+            {{ page.date | date: "%a %-d %B, %Y" }}
+      .post__body
+        {{ content }}
+
+  {% haml tickets.haml %}
+  {% haml signup.haml %}

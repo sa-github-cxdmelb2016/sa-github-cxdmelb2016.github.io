@@ -1,0 +1,19 @@
+html {
+  background: $dark-blue;
+  color: $ink;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+a {
+  color: white;
+  color: rbga(255,255,255,0.8);
+  text-decoration: none;
+  &:hover {
+    color: white;
+    text-decoration: underline;
+  }
+}

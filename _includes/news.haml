@@ -1,0 +1,16 @@
+---
+---
+
+.news.section-inline.-dark
+  .wrapper
+    %h2
+      News
+
+    %ul.post-list
+      {% for post in site.posts %}
+      %li.post-list__item
+        .post-list__meta
+          {{ post.date | date: "%B %-d" }}
+        %a.post-list__title{href: "{{ post.url | prepend: site.baseurl }}"}
+          {{ post.title }}
+      {% endfor %}

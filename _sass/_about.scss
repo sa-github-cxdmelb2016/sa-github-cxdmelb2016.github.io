@@ -1,0 +1,13 @@
+.about {
+  background: $blue;
+  height: 750px;
+  background: url(/images/about.jpg) top center no-repeat $blue;
+  background-size: cover;
+}
+
+
+@include media-query($on-phone) {
+  .about {
+    height: 850px;
+  }
+}

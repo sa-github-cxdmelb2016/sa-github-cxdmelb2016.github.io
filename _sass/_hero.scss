@@ -1,0 +1,66 @@
+.hero {
+  background: $blue;
+  height: 800px;
+  background: url(/images/hero.png) center 50px no-repeat $blue;
+  background-size: 1440px;
+  &__banner {
+    font-size: 15px;
+    padding-top: 50px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  &__logo {
+    @include knockout26;
+    padding: 100px 0;
+    text-align: center;
+    font-size: 150px;
+    line-height: 0.74;
+    text-transform: uppercase;
+    &__two {
+      padding-left: 90px;
+    }
+  }
+  &__content {
+    max-width: $heading-width;
+    margin: 0 auto;
+    @include clear;
+  }
+  &__tagline {
+    font-size: 35px;
+    line-height: 1.2;
+    width: 280px;
+    float: left;
+  }
+  &__date {
+    @include knockout29;
+    font-size: 35px;
+    line-height: 1.1;
+    text-transform: uppercase;
+    width: 100px;
+    text-align: right;
+    border: 4px solid $ink;
+    padding: 10px;
+    float: right;
+  }
+}
+
+@include media-query($on-phone) {
+  .hero {
+    &__logo {
+      padding: 50px 0;
+      font-size: 120px;
+    }
+    &__date {
+      float: none;
+      margin: 40px auto;
+    }
+    &__tagline {
+      float: none;
+      margin: 0 auto;
+      text-align: center
+
+    }
+  }
+}
+

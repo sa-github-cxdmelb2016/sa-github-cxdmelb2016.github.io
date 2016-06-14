@@ -1,0 +1,57 @@
+@mixin ideal-sans {
+  font-family: "Ideal Sans A", "Ideal Sans B", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}
+
+@mixin knockout26 {
+  font-family: "Knockout 26 A", "Knockout 26 B";
+  font-style: normal;
+  font-weight: 400;
+}
+
+@mixin knockout29 {
+  font-family: "Knockout 29 A", "Knockout 29 B";
+  font-style: normal;
+  font-weight: 400;
+}
+
+body {
+  @include ideal-sans;
+  font-size: 20px;
+  line-height: 1.5;
+  font-style: normal;
+}
+
+em {
+  font-style: italic;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @include ideal-sans;
+  line-height: 1.1;
+}
+
+h2 {
+  font-size: 35px;
+  color: white;
+  max-width: $heading-width;
+  text-align: center;
+  margin: 0 auto 90px;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+}
+
+@include media-query($on-phone) {
+  h2 {
+    font-size: 35px;
+    color: white;
+    max-width: $heading-width;
+    text-align: center;
+    margin: 0 auto 50px;
+  }
+}

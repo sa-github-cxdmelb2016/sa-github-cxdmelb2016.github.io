@@ -1,0 +1,24 @@
+.wrapper {
+  max-width: $on-laptop;
+  margin: 0 auto;
+  padding: 0 20px;
+  @include clear;
+}
+
+.full-bleed {
+  width: 100%;
+  height: auto;
+}
+
+.section {
+  width: 100%;
+  background: $blue;
+  &.-dark {
+    background: $dark-blue;
+  }
+  padding: 100px 0;
+}
+
+.section-inline + .section-inline {
+  padding-top: 100px;
+}

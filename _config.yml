@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Culture x Design MEL 2016
+email: team@culturexdesign.com
+description: > # this means to ignore newlines until "baseurl:"
+  The unconference for People Geeks. Coming together to explore the future of people and culture.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://culturexdesign.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+
+gems:
+- jekyll-haml

@@ -1,0 +1,19 @@
+$ink:       #3e4543;
+$blue:      #29b8d0;
+$dark-blue: #08525f;
+$gold:      #e8c781;
+$tan:       #f4f0ef;
+$tan-light: #f7f6f6;
+$coral:     #f04b5d;
+
+$spacing-unit:     30px;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width: 320px;
+$heading-width: 480px;
+$on-phone:      $heading-width;
+$on-laptop:     640px;

@@ -1,0 +1,11 @@
+.sponsors {
+  background: $blue;
+  height: 800px;
+  background: url(/images/sponsors.jpg) center center no-repeat $blue;
+  background-size: cover;
+  &__calogo {
+    width: 180px;
+    height: auto;
+    margin: 0 auto;
+  }
+}
