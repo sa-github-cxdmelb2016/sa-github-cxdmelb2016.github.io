@@ -12,10 +12,19 @@
   <meta content='The unconference for People Geeks. Coming together to explore the future of people and culture.' name='description'>
   <meta content='The unconference for People Geeks. Coming together to explore the future of people and culture.' name='twitter:card'>
   <meta content='@cultureamp' name='twitter:site'>
-  <meta content='Culture x Design Melbourne 2016' name='twitter:title'>
-  <meta content='The unconference for People Geeks. Coming together to explore the future of people and culture.' name='twitter:description'>
   <meta content='@cultureamp' name='twitter:creator'>
+
+  <meta content='Culture x Design Melbourne 2016' name='twitter:title'>
+
+  {% if page.title %}
+    <meta name="twitter:title" content="{{ page.title }}">
+  {% else %}
+    <meta name="twitter:title" content="{{ site.title }}">
+  {% endif %}
+
+  <meta content='The unconference for People Geeks. Coming together to explore the future of people and culture.' name='twitter:description'>
   <meta content='http://culturexdesign.com/images/cxd-twitter.png' name='twitter:image:src'>
+
   <meta content='http://culturexdesign.com/images/cxd-twitter.png' property='og:image'>
   <meta content='http://culturexdesign.com' property='og:url'>
   <meta content='Culture x Design MEL 2016' property='og:title'>
