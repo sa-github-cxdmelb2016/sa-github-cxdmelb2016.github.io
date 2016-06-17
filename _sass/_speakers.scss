@@ -60,6 +60,7 @@
     &__contact {
       display: inline-block;
       font-size: $text-size;
+      margin-top: 20px;
       &:after {
         content: "\00b7";
         font-size: 2em;
@@ -70,6 +71,9 @@
       }
       &:last-of-type:after {
         content: "";
+        position: static;
+        margin: auto;
+        font-size: 1em;
       }
     }
   }
