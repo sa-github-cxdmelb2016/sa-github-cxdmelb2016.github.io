@@ -1,6 +1,18 @@
 .post {
   padding-top:1px;
   background: $blue;
+  .post__image {
+    &.-responsive {
+      width: 700px;
+      margin-left: -50px;
+      height: auto;
+      @include media-query(720px) {
+        margin-left: auto;
+        width: 100%;
+      }
+    }
+
+  }
   .post__content {
     margin-top: -400px;
     padding: 50px 0;
@@ -20,13 +32,24 @@
   .post__body {
     text-align: left;
     color: $ink;
+    h2, h3 {
+      color: $ink;
+      margin: 1em auto 1em;
+    }
     a {
       color: $ink;
-      text-decoration: underline;
       &:hover {
         color: $ink;
+        text-decoration: underline;
       }
     }
+  }
+  .post__divider {
+    border-top: 1px solid $ink;
+    $border-space: 40px;
+    padding-top: $border-space;
+    margin-top: $border-space;
+    text-align: center;
   }
   .signup.section {
     padding: 0;
@@ -37,8 +60,8 @@
     background-size: 1440px;
     a {
       color: $ink;
-      text-decoration:none;
       &:hover {
+        text-decoration:none;
         color: $ink;
       }
     }
@@ -48,13 +71,27 @@
       margin-top: -600px;
     }
   }
+
+ .speaker__avatar {
+    $avatar-width: 200px;
+    width: $avatar-width;
+    height: $avatar-width;
+    border-radius: $avatar-width / 2;
+    margin: 0 auto;
+    overflow: hidden;
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+
 }
 
 .post-list {
   list-style: none;
   padding: 0;
+  font-size: 24px;
   .post-list__meta {
-    font-size: 16px;
     color: white;
     color: rgba(255,255,255,0.6);
     padding-right: 10px;
@@ -64,6 +101,12 @@
   }
   .post-list__title {
 
+  }
+  .post-list__excerpt {
+    color: white;
+    color: rgba(255,255,255,0.6);
+    font-size: 18px;
+    font-style: italic;
   }
 }
 

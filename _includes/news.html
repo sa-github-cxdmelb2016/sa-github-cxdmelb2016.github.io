@@ -12,6 +12,9 @@
         <a class='post-list__title' href="{{ post.url | prepend: site.baseurl }}">
           {{ post.title }}
         </a>
+        <div class="post-list__excerpt">
+          {{ post.content | strip_html | truncatewords: 25, "..." }}
+        </div>
       </li>
     {% endfor %}
     </ul>

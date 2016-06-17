@@ -1,16 +1,33 @@
 .speakers {
   color: white;
   $text-size: 18px;
+  $border-space: 60px;
   &.section {
     padding-bottom: 0;
+  }
+  &__more {
+    // border-bottom: 1px solid white;
+    // border-bottom: 1px solid rgba(255,255,255,0.4);
+    // padding-bottom: 20px;
+    background:  rgba(255,255,255,0.4);
+    padding: 30px 20px;
+    line-height: 1.2;
+    color: $dark-blue;
+    font-weight: 500;
   }
   .speaker {
     border-bottom: 1px solid white;
     border-bottom: 1px solid rgba(255,255,255,0.4);
-    $border-space: 60px;
     padding-bottom: $border-space;
     margin-bottom: $border-space;
+    &.-for-post {
+      border:0;
+      margin:0;
+      padding-bottom:50px;
+    }
     &:last-of-type {
+      border: 0;
+      padding-bottom: 40px;
       margin-bottom:0;
     }
     &__name {

@@ -20,6 +20,15 @@ layout: default
     <div class="post__content">
       <header class="post__header">
         <h1 class="post__title">
+          {% if page.profileimg %}
+          <div class='speakers'>
+            <div class="speaker -for-post">
+              <div class="speaker__avatar" >
+                <img src="{{ page.profileimg }}">
+              </div>
+            </div>
+          </div>
+          {% endif %}
           {{ page.title }}
         </h1>
         <div class="post__meta">
