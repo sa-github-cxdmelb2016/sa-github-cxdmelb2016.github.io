@@ -1,0 +1,53 @@
+.speakers {
+  color: white;
+  $text-size: 18px;
+  .speaker {
+    border-bottom: 1px solid white;
+    border-bottom: 1px solid rgba(255,255,255,0.4);
+    $border-space: 60px;
+    padding-bottom: $border-space;
+    margin-bottom: $border-space;
+    &__name {
+      font-size: 28px;
+      text-align:center;
+    }
+    &__title {
+      text-align:center;
+    }
+    &__bio {
+      font-size: $text-size;
+    }
+    &__contacts {
+      list-style: none;
+      margin: 0 auto;
+      text-align: center;
+    }
+    &__avatar {
+      $avatar-width: 200px;
+      width: $avatar-width;
+      height: $avatar-width;
+      border-radius: $avatar-width / 2;
+      margin: 0 auto;
+      overflow: hidden;
+      img {
+        width: 100%;
+        height: auto;
+      }
+    }
+    &__contact {
+      display: inline-block;
+      font-size: $text-size;
+      &:after {
+        content: "\00b7";
+        font-size: 2em;
+        margin: 0 10px;
+        bottom: -7px;
+        position: relative;
+        line-height: 1;
+      }
+      &:last-of-type:after {
+        content: "";
+      }
+    }
+  }
+}
