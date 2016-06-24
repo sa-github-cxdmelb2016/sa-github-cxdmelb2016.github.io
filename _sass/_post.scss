@@ -43,6 +43,10 @@
         text-decoration: underline;
       }
     }
+    .-lede {
+      font-style:italic;
+      // text-align: center;
+    }
   }
   .post__divider {
     border-top: 1px solid $ink;
@@ -98,6 +102,7 @@
   }
   .post-list__item {
     text-align: center;
+    margin-bottom: 40px;
   }
   .post-list__title {
 

@@ -4,9 +4,11 @@ title:  "Storytelling for business"
 categories: news
 ---
 
-<img style="margin-top: -54px;" class="post__image -responsive" src="/images/Copyright Beth Jennings Photography 2016_Yamini Naidu_WEB-6887.jpg">
+<img style="margin-top: -54px;" class="post__image -responsive" src="/images/Copyright_Beth_Jennings_Photography_2016_Yamini Naidu_WEB-6887.jpg">
 
-_Yamini Naidu worked as an economist before following her passion for storytelling, but her appreciation for leading through story came when she was a young girl. Her teacher challenged the class to write a story of just ten words, each word having only two letters._
+<p class="-lede">
+Yamini Naidu worked as an economist before following her passion for storytelling, but her appreciation for leading through story came when she was a young girl. Her teacher challenged the class to write a story of just ten words, each word having only two letters.
+</p>
 
 The answer to what seemed an impossible riddle was: “If it is to be, it is up to me.” The experience stuck with Naidu and it’s now a story she tells in discussing how she moved from lecturing in management and working as an economist and leader, to having her own storytelling consultancy.
 
@@ -34,4 +36,4 @@ In fact, once people have a bank of stories to tell for a range of purposes, the
 
 <div class="post__divider"></div>
 
-You can learn more about storytelling at Naidu’s session at Culture x Design in Melbourne on 20 July 2016. <a href="https://www.eventbrite.com/e/culture-x-design-melbourne-2016-tickets-25704072573#tickets" target="_blank">Book your tickets today</a>.
+_You can learn more about storytelling at Naidu’s session at Culture x Design in Melbourne on 20 July 2016. <a href="https://www.eventbrite.com/e/culture-x-design-melbourne-2016-tickets-25704072573#tickets" target="_blank">Book your tickets today</a>._
