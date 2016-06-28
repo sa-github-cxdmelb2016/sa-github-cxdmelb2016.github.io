@@ -14,7 +14,7 @@ Dawn Sharifan is recognized as an outstanding HR leader and educator, with well 
 
 ## Moments
 
-“The thing that I'm most proud of in my career is from when I was just a baby HR person and I worked in benefits. I worked for months to get someone a lung. The day that I was able to go that person and say, ‘I've got your lung approved’, is still one of the most proud days of my entire life. When the stars align and you can do something like that, it can be more impactful and meaningful than any other experience that I know.”
+“The thing that I'm most proud of in my career is from when I was just a baby HR person and I worked in benefits. I worked for months to get someone a lung. The day that I was able to go that person and say, ‘I've got your lung’, is still one of the most proud days of my entire life. When the stars align and you can do something like that, it can be more impactful and meaningful than any other experience that I know.”
 
 Although that moment stuck with Sharifan, as all HR professionals will know, events like that are few and far between. “You have to get your motivation and your drive from really connecting to the business,” she says. “If you are going into HR for the people, I actually think it's an okay reason to join HR; but I think it's not the reason to stay in HR.
 
