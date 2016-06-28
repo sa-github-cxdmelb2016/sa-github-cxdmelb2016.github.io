@@ -14,7 +14,7 @@ Dawn Sharifan is recognized as an outstanding HR leader and educator, with well 
 
 ## Moments
 
-“The thing that I'm most proud of in my career is from when I was just a baby HR person and I worked in benefits. I worked for months to get someone a loan. The day that I was able to go that person and say, ‘I've got your loan approved’, is still one of the most proud days of my entire life. When the stars align and you can do something like that, it can be more impactful and meaningful than any other experience that I know.”
+“The thing that I'm most proud of in my career is from when I was just a baby HR person and I worked in benefits. I worked for months to get someone a lung. The day that I was able to go that person and say, ‘I've got your lung approved’, is still one of the most proud days of my entire life. When the stars align and you can do something like that, it can be more impactful and meaningful than any other experience that I know.”
 
 Although that moment stuck with Sharifan, as all HR professionals will know, events like that are few and far between. “You have to get your motivation and your drive from really connecting to the business,” she says. “If you are going into HR for the people, I actually think it's an okay reason to join HR; but I think it's not the reason to stay in HR.
 
@@ -36,4 +36,4 @@ Sharifan also muses on how these services will be structured, “The thing that 
 
 <div class="post__divider"></div>
 
-_Dawn Sharifan is an Adjunct Professor at San Francisco State University with over a decade of experience in HR. She became Head of HR at Slack when one of her students requested she apply for the role. She now travels the world helping Slackelese to do the best work of their life. At CulturexDesign Dawn will be discussing how to nurture and scale culture in a fast-growth global company. <a href="https://www.eventbrite.com/e/culture-x-design-melbourne-2016-tickets-25704072573#tickets" target="_blank">Get your tickets today</a>._
+_Dawn Sharifan is an Adjunct Professor at San Francisco State University with over a decade of experience in HR. She became Head of HR at Slack when one of her students requested she apply for the role. She now travels the world helping Slack employees to do the best work of their life. At Culture x Design Dawn will be discussing how to nurture and scale culture in a fast-growth global company. <a href="https://www.eventbrite.com/e/culture-x-design-melbourne-2016-tickets-25704072573#tickets" target="_blank">Get your tickets today</a>._
