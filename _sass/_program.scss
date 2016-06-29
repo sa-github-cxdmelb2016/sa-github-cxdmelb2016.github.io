@@ -23,6 +23,9 @@
     display: inline-block;
     width: $time-width;
     font-size: 24px;
+    position: absolute;
+    left: 0;
+    top: 0;
   }
   .program-list__time-mod {
     font-size: 0.6em;
@@ -33,13 +36,16 @@
     display: inline-block;
     // font-weight: 500;
     font-size: 24px;
+    position: relative;
+    line-height: 1.2;
+    padding-left: $time-width;
   }
   .program-list__speaker {
     display: block;
     font-size: 20px;
     color: white;
     color: rgba(255,255,255,0.6);
-    padding-left: $time-width + 4;
+    padding-left: $time-width;
   }
 
   .program-disclaimer {
