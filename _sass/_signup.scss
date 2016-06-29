@@ -156,10 +156,25 @@
   line-height: $height;
   padding: 0 30px;
   text-decoration: none;
+  font-weight: 300;
+  &.button-tickets {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    @include media-query($on-phone) {
+      right: 50%;
+      margin-right: -57px;
+    }
+  }
+  &.-small {
+    height: 40px;
+    line-height: 40px;
+    padding: 0 20px;
+    font-size: 16px;
+  }
   &:hover {
     background: darken($gold, 5%);
     color: $ink;
     text-decoration: none;
   }
-
 }
