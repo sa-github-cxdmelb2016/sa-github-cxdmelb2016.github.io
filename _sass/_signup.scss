@@ -159,11 +159,14 @@
   font-weight: 300;
   &.button-tickets {
     position: absolute;
-    right: 20px;
+    right: 40px;
     top: 20px;
     @include media-query($on-phone) {
       right: 50%;
       margin-right: -57px;
+      &.-hero-page {
+        top: 120px;
+      }
     }
   }
   &.-small {
