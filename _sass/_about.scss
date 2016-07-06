@@ -1,13 +1,74 @@
 .about {
   background: $blue;
-  height: 750px;
+  // height: 750px;
   background: url(/images/about.jpg) top center no-repeat $blue;
   background-size: cover;
+  .lede {
+    font-size: 28px;
+    line-height: 1.2;
+  }
+  .event-peeps {
+    color: white;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    &__title {
+      text-align:center;
+      color: white;
+      margin: 20px 0 10px;
+      font-size: 1.2em;
+    }
+    li {
+      display: inline-block;
+      white-space: nowrap;
+      &:after  {
+        content:"\2022";
+        padding: 0 10px;
+        white-space: nowrap;
+      }
+      &:last-of-type {
+        &:after  {
+          content:"";
+        }
+      }
+    }
+  }
 }
-
+.testimonials  {
+  margin-top: 80px;
+  .testimonial {
+    max-width: 400px;
+    margin: 40px auto;
+    &__quote {
+      color: white;
+      quotes: "“" "”" "‘" "’";
+      font-style: italic;
+      &:before {
+        color: $blue;
+        content: '\201C';
+        font-size: 4em;
+        line-height: 0.1em;
+        margin-right: 0.25em;
+        vertical-align: -0.4em;
+      }
+    }
+    &__cite {
+      margin-top: 10px;
+      color: white;
+      text-transform: uppercase;
+      text-align: right;
+      font-size: 0.8em;
+      margin-bottom: 1em;
+      &:before {
+        content:"\2014";
+      }
+    }
+  }
+}
 
 @include media-query($on-phone) {
   .about {
-    height: 850px;
+    // height: 850px;
   }
 }
