@@ -4,6 +4,10 @@ title:  "Creating inclusive cultures"
 categories: news
 ---
 
+<div class="post__header">
+  <img style="" class="post__image -responsive-j" src="/images/juliet.png">
+</div>
+
 <p class="-lede">
 A popular adage says ‘two heads are better than one’, but Juliet Bourke, a partner in Deloitte’s consulting business, puts a slightly different spin on that aphorism. Companies that want to create breakthrough ideas should ask: ‘Which two heads are better than one?’ That’s the title of her book, which makes the case that diversity of thought can give companies a competitive edge.
 </p>
