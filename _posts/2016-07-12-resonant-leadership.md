@@ -26,7 +26,7 @@ So how can leaders create this kind of culture? It’s not easy, Elzinga says.
 
 “Being a leader is about having to make decisions that no one should have to make,” he said,  “really tough decisions that there's no winner, and you're going to be left with blood on your hands, and you have to got to live with that. When the shit hits the fan everybody turns to you and says ‘What do we do?’ That high lofty space you aspired to is actually really, really lonely.”
 
-At Rising Sun Research, where Elzinga and his team developed software used in movies including *Harry Potter* and *Lord of the Rings*, he noticed that people promoted to leadership positions often made the same mistake: They assumed that now that they were in charge, plans would progress as long as everyone followed their directions. In reality, leaders actually have little ability to control people. That’s why they need to design environments where people believe in the corporate mission.
+At Rising Sun Pictures, where Elzinga and his team developed software used in movies including *Harry Potter* and *Lord of the Rings*, he noticed that people promoted to leadership positions often made the same mistake: They assumed that now that they were in charge, plans would progress as long as everyone followed their directions. In reality, leaders actually have little ability to control people. That’s why they need to design environments where people believe in the corporate mission.
 
 ## What are you willing to hurt for?
 
