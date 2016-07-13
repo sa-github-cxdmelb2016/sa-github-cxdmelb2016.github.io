@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Resonant Leadership"
+title:  "Resonant leadership"
 categories: news
 ---
 
